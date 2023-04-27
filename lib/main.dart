@@ -9,5 +9,5 @@ void main() {
     routes: {
       '/': (context) => HomeScreen(),
     },
-  ));
+  ),);
 }
